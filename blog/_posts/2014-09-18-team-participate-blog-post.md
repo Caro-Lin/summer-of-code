@@ -15,8 +15,7 @@ an open source system used for internal decision making and policy creation. The
 
 ### Below is our team:
 ![team picture](/img/blog/2014/team-participate.jpg)
-<br />
-*Supervisor Floor Drees (top left); coach Miika Pihjala, coach Mukesh Thakur, RG Qian Zhou, RG Cathy Nangini (bottom); mentor Oliver Barnes (top right)*
+<div align="center" class="image-credits">Supervisor Floor Drees (top left); coach Miika Pihjala, coach Mukesh Thakur, RG Qian Zhou, RG Cathy Nangini (bottom); mentor Oliver Barnes (top right)</div>
 
 **Cathy**: I am a data scientist who has studied physics, geo- and bio-physics and uses scientific computing for data analysis. I started learning Rails at the first RG workshop in Helsinki in 2011. I loved the idea of being able to create and build web projects. The workshop gave me confidence and motivated me to dive into Rails further. After I completed Code School’s Rails for Zombies courses (Level 1 and 2), I developed my first simple app called the [Happy OMeter](http://furious-mountain-2724.herokuapp.com/). Later on, my friends and I built a [social network platform](https://bitbucket.org/cnangini/zingatlas) that allows friends to coordinate the transport of gifts and other small personal items when they travel. It expanded my Rails knowledge and understanding of the MVC architecture, but many questions still remain. There is no doubt that RGSoC has furthered my skills. I am now quite addicted to open source and figuring out those features, and it's great to work with Qian to hash out the never-ending mysteries of code.
 
