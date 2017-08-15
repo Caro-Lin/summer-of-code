@@ -45,16 +45,13 @@ First of all, we have a group of really awesome coaches who are teaching us a lo
 We have a lot of amaaaaaazing people as coaches <3
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/07/kick-off.jpg" align="center" width="600">
-Sebastian, Matthias, Kacper, Arne,  Bodo, Jan
+<div align="center" class="image-credits">Sebastian, Matthias, Kacper, Arne, Bodo, Jan</div>
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/08/geek.jpg" align="center" width="600">
-
-Dirk and Lucas from Cologne are our volunteer coaches
-
+<div align="center" class="image-credits">Dirk and Lucas from Cologne are our volunteer coaches</div>
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/09/ernesto.jpg" align="center" width="600">
-
-Ernesto is our  drawing master
+<div align="center" class="image-credits">Ernesto is our drawing master</div>
 
 
 ## Jedi Power of the Week
@@ -74,21 +71,18 @@ We hat a lot of amazing moments in the past weeks. It would be too much for this
 the moment when we had our first non-coach contributor on github
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/08/shirt.jpg" align="center" widht="600">
-
-having this awesome logo <3
+<div align="center" class="image-credits">having this awesome logo <3</div>
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/08/froscon_talk.jpg" align="center" width="600">
-<br />
-giving a keynote  talk about our journey at RedFrogConf
+<div align="center" class="image-credits">giving a keynote  talk about our journey at RedFrogConf</div>
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/08/boat.jpg" align="center" width="600">
-<br />
-having a lot of fun together
+<div align="center" class="image-credits">having a lot of fun together</div>
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/08/baelle.jpg" align="center" width="600">
 
 <img src="http://code-padawans.de/wp-content/uploads/2014/07/haende.jpg" align="center" width="600">
-<br />Writing (and deleting) a lot of code
+<div align="center" class="image-credits">Writing (and deleting) a lot of code</div>
 
 ##  And then the summer ends…
 There are almost 2 weeks left working on Ataru.
